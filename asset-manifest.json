@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6eb32ef0.chunk.css",
-    "main.js": "/static/js/main.55fb8cf7.chunk.js",
-    "main.js.map": "/static/js/main.55fb8cf7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3abf67a7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3abf67a7.js.map",
-    "static/js/2.38fd1606.chunk.js": "/static/js/2.38fd1606.chunk.js",
-    "static/js/2.38fd1606.chunk.js.map": "/static/js/2.38fd1606.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6eb32ef0.chunk.css.map": "/static/css/main.6eb32ef0.chunk.css.map",
-    "static/js/2.38fd1606.chunk.js.LICENSE.txt": "/static/js/2.38fd1606.chunk.js.LICENSE.txt"
+    "main.css": "/ReactChromaKey/static/css/main.6eb32ef0.chunk.css",
+    "main.js": "/ReactChromaKey/static/js/main.ccef90b0.chunk.js",
+    "main.js.map": "/ReactChromaKey/static/js/main.ccef90b0.chunk.js.map",
+    "runtime-main.js": "/ReactChromaKey/static/js/runtime-main.93bcb12d.js",
+    "runtime-main.js.map": "/ReactChromaKey/static/js/runtime-main.93bcb12d.js.map",
+    "static/js/2.38fd1606.chunk.js": "/ReactChromaKey/static/js/2.38fd1606.chunk.js",
+    "static/js/2.38fd1606.chunk.js.map": "/ReactChromaKey/static/js/2.38fd1606.chunk.js.map",
+    "index.html": "/ReactChromaKey/index.html",
+    "static/css/main.6eb32ef0.chunk.css.map": "/ReactChromaKey/static/css/main.6eb32ef0.chunk.css.map",
+    "static/js/2.38fd1606.chunk.js.LICENSE.txt": "/ReactChromaKey/static/js/2.38fd1606.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3abf67a7.js",
+    "static/js/runtime-main.93bcb12d.js",
     "static/js/2.38fd1606.chunk.js",
     "static/css/main.6eb32ef0.chunk.css",
-    "static/js/main.55fb8cf7.chunk.js"
+    "static/js/main.ccef90b0.chunk.js"
   ]
 }
